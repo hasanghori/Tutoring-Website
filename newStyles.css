@@ -102,7 +102,7 @@ p {
 #showcase .bg-image {
     position: absolute;
     background: #333
-    url('images/image\ 5.jpg');
+    url('image\ 5.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -115,7 +115,7 @@ p {
 #showcase .tutor-bg-image {
     position: absolute;
     background: #333
-    url('images/GroupPicture.jpg');
+    url('GroupPicture.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -128,7 +128,7 @@ p {
 #showcase .video-bg-image {
     position: absolute;
     background: #333
-    url('images/image\ 12.jpg');
+    url('image\ 12.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
