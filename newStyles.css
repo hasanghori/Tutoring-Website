@@ -271,27 +271,29 @@ p {
 .rightside-tutor {
     align-self: right;
     display: inline-block;
-    padding-right: .5em;
+    padding-right: 1em;
 }
 
 .tutor-Image {
     width: 100px;
     height: auto;
     object-fit: cover;
-    padding: 0.5em;
+    padding: 1em;
 }
 
 .tutor-words {
     color: black;
     text-align: right;
     font-size: 12px;
+    font-weight: lighter;
 }
 
 .tutor-qualifications{
     color: black;
     text-align: left;
+    font-weight: lighter;
     font-size: 12px;
-    padding-left: .5em;
+    padding-left: 1em;
 }
 
 
