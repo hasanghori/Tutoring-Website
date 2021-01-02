@@ -284,7 +284,7 @@ p {
 .tutor-words {
     color: black;
     text-align: right;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: lighter;
 }
 
@@ -292,7 +292,7 @@ p {
     color: black;
     text-align: left;
     font-weight: lighter;
-    font-size: 12px;
+    font-size: 14px;
     padding-left: 1em;
 }
 
@@ -342,6 +342,22 @@ p {
     text-decoration: none;
 }
 
+.nav-link-wrapper-contact {
+    height: 22px;
+    transition: border-bottom 0.5s;
+}
+
+.nav-link-wrapper-contact a{
+    color: #2690d4;
+    text-decoration: none;
+}
+
+.nav-link-wrapper-contact a:hover {
+    color: white;
+    font-weight: bold;
+    
+}
+
 
 /* Media Query */
 
@@ -381,5 +397,20 @@ p {
 
     #section-b li {
         width: 31%
+    }
+
+    .tutor-words {
+        color: black;
+        text-align: right;
+        font-size: 12px;
+        font-weight: lighter;
+    }
+    
+    .tutor-qualifications{
+        color: black;
+        text-align: left;
+        font-weight: lighter;
+        font-size: 12px;
+        padding-left: 1em;
     }
 }
